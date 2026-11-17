@@ -1,0 +1,5 @@
+{
+  "name": "tipos-local",
+  "owner": { "name": "publio" },
+  "plugins": [{ "name": "tipos", "source": "./" }]
+}
